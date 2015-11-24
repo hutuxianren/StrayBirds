@@ -121,7 +121,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 笑傲江湖
+title: hutuxianren'blog
 description: 飞雪连天射白鹿，笑书神侠倚碧鸳。
 theme: kunka
 disqusname: hutuxianrengithub
