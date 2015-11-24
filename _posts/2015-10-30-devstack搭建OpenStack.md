@@ -5,7 +5,7 @@ category: OpenStack学习
 comments: true
 ---
 ##devstack搭建OpenStack
-###搭建过程图解
-图一
+###搭建过程
+![devstack](/images/devstack.png)
 
 
