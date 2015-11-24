@@ -111,7 +111,6 @@ customLinks:
 disqus:
   config: false
   id: hutuxianren
-  short_name:hutuxianrengithub
 
 
 #################################### global configure #######################################
@@ -124,7 +123,7 @@ highlighter: pygments
 title: 笑傲江湖
 description: 飞雪连天射白鹿，笑书神侠倚碧鸳。
 theme: kunka
-disqusname: http://hutuxianren.github.io/blog
+disqusname: hutuxianren
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
