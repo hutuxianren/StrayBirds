@@ -49,7 +49,7 @@ keywords: Jekyll Theme
 url: /blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
-
+disqusname: hutuxianrengithub
 
 #Nav config
 nav:
