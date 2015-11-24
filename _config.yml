@@ -120,8 +120,8 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 笑傲江湖
+description: 飞雪连天射白鹿，笑书神侠倚碧鸳。
 theme: kunka
 disqusname: hutuxianren
 
