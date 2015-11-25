@@ -68,9 +68,8 @@ nav:
 author:
     name: hutuxianren
     email: tuyixin20112902@gmail.com
-    imageLink: http://p4.gexing.com/shaitu/20130412/1525/5167b6dab9135.jpg
-    #https://avatars.githubusercontent.com/minixalpha
-    simpleIntro: 我是胡图仙人
+    imageLink: https://avatars.githubusercontent.com/minixalpha
+    simpleIntro: 胡图仙人
     detailIntro:
       <p>飞雪连天射白鹿，笑书神侠倚碧鸳</p>
       <p>胡图仙人的技术积累博客</p>
