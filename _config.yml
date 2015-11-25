@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /blog
+url: /rabbit
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 disqusname: hutuxianrengithub
@@ -117,7 +117,7 @@ disqus:
 #################################### global configure #######################################
 
 username: hutuxianren
-baseurl: /blog
+baseurl: /rabbit
 markdown: redcarpet
 safe: false
 highlighter: pygments
