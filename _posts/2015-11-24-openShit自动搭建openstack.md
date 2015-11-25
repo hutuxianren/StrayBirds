@@ -18,7 +18,7 @@ OpenShit命令介绍
 
   ./openshit.sh <--all|service_name> clean
   可以清除服务的数据库, 若服务出问题了可以直接清掉数据库然后重新config
-----------------------------------------------------
+
 下面是安装步骤
   1.安装git, 使用git下载openshit
       git  clone https://github.com/windworst/openshit.git.
