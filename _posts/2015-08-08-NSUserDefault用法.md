@@ -4,7 +4,6 @@ title: NSUserDefaults
 category: iOS技术
 comments: true
 ---
-##NSUserDefault standardUserDefault的使用
   本地存储数据简单来说有三种方式:数据库、NSUserDefaults和文件(如info.plist)
   NSUserDefaults用于存储数据量小的数据，例如用户配置。并不是所有的东西都能往里放，只支持:NSString、NSNumber、NSDate、NSArray、NSDictionary
   详细的方法可以查看类文件。
