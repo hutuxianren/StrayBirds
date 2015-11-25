@@ -30,9 +30,9 @@ OpenShit命令介绍
   3.配置文件修改完成后开始安装
      cd openshit
 
-      ./openshit.sh --all install.
-     这个命令会 问你是否需要配置软件源, 第一次使用openshit请选择y, 所以命令可以这样写:
-      echo y | ./openshit.sh --all install
+ ./openshit.sh --all install.
+这个命令会 问你是否需要配置软件源, 第一次使用openshit请选择y, 所以命令可以这样写:
+  echo y | ./openshit.sh --all install
   注:安装失败时重新执行此命令，选择no
 
   4.一段时间后安装完成,请输入
