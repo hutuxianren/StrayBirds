@@ -55,11 +55,11 @@ disqusname: hutuxianrengithub
 nav:
   - text: 首页
     url: index.html
+  - text: 所有文章
+    url: navigations/archives.html
   - text: 分类目录 
     url: navigations/categories.html
-  - text: 文章归档
-    url: navigations/archives.html
-  - text: 联系我
+  - text: 联系
     url: navigations/contact.html
   - text: 友情链接
     url: navigations/links.html
