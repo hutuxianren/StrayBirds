@@ -4,7 +4,6 @@ title: openShit自动搭建OpenStack
 category: OpenStack学习
 comments: true
 ---
-##openShit自动搭建
 OpenShit命令介绍
 
   ./openshit.sh <--all|service_name> start|stop|restart
